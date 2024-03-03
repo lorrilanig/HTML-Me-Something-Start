@@ -1,1 +1,50 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: lightslategray;
+}
+
+header {
+    text-align: center;
+    font-size: 26px;
+    padding: 5px;
+}
+
+span{
+    text-decoration: line-through;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    background-color: rgb(42, 42, 46);
+    color: green;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+
+article {
+    margin: 15px;
+}
+div {
+    box-sizing: border-box;
+    
+}
+
+h3 ol {
+    float: left;
+    
+}
+#pokemon {
+    display: block;
+    width: 350px;
+    margin: 0 auto 0 auto;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
