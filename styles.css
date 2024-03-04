@@ -43,6 +43,12 @@ h3 ol {
     width: 350px;
     margin: 0 auto 0 auto;
 }
+.caption {
+    text-align: center;
+    font-style: italic;
+    opacity: .6;
+}
+
 
 footer {
     position: absolute;
